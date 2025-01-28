@@ -1,0 +1,3 @@
+std::env::var_os('OUT_DIR') = "C:\\Users\\natha\\OneDrive\\Documents\\Operating system 1\\os_with_bootloader\\target\\debug\\build\\os_with_bootloader-46026bba7eb2e3c3\\out"
+cargo:rustc-env=UEFI_PATH=C:\Users\natha\OneDrive\Documents\Operating system 1\os_with_bootloader\target\debug\build\os_with_bootloader-46026bba7eb2e3c3\out\uefi.img
+cargo:rustc-env=BIOS_PATH=C:\Users\natha\OneDrive\Documents\Operating system 1\os_with_bootloader\target\debug\build\os_with_bootloader-46026bba7eb2e3c3\out\bios.img
